@@ -11,7 +11,7 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "BrassCraft Manufacturing - Premium Brass Window Brackets",
+  title: "Jay Brass",
   description:
     "Manufacturing high-quality brass window brackets since 1985. Custom solutions, precision craftsmanship, and reliable service for all your bracket needs.",
   keywords: "brass window brackets, manufacturing, custom brackets, window hardware, brass fittings",
