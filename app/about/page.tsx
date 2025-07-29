@@ -145,14 +145,14 @@ export default function AboutPage() {
                   {/* Image - Desktop Left, Mobile Top */}
                   <div className="relative order-1 lg:order-2">
                     {/* Desktop Timeline Dot */}
-                    <div className="hidden lg:block absolute -left-8 top-1/2 transform -translate-y-1/2 w-16 h-16 bg-gradient-to-r from-amber-400 to-blue-400 rounded-full flex items-center justify-center">
+                    {/* <div className="hidden lg:block absolute -left-8 top-1/2 transform -translate-y-1/2 w-16 h-16 bg-gradient-to-r from-amber-400 to-blue-400 rounded-full flex items-center justify-center">
                       <Factory className="h-8 w-8 text-black" />
-                    </div>
+                    </div> */}
 
                     {/* Mobile Timeline Dot */}
-                    <div className="lg:hidden absolute -left-12 top-8 w-12 h-12 bg-gradient-to-r from-amber-400 to-blue-400 rounded-full flex items-center justify-center">
+                    {/* <div className="lg:hidden absolute -left-12 top-8 w-12 h-12 bg-gradient-to-r from-amber-400 to-blue-400 rounded-full flex items-center justify-center">
                       <Factory className="h-6 w-6 text-black" />
-                    </div>
+                    </div> */}
 
                     <Image
                       src={img1}
@@ -182,14 +182,14 @@ export default function AboutPage() {
                   {/* Image - Desktop Right, Mobile Top */}
                   <div className="relative lg:order-1 order-1">
                     {/* Desktop Timeline Dot */}
-                    <div className="hidden lg:block absolute -right-8 top-1/2 transform -translate-y-1/2 w-16 h-16 bg-gradient-to-r from-amber-400 to-blue-400 rounded-full flex items-center justify-center">
+                    {/* <div className="hidden lg:block absolute -right-8 top-1/2 transform -translate-y-1/2 w-16 h-16 bg-gradient-to-r from-amber-400 to-blue-400 rounded-full flex items-center justify-center">
                       <Zap className="h-8 w-8 text-black" />
-                    </div>
+                    </div> */}
 
                     {/* Mobile Timeline Dot */}
-                    <div className="lg:hidden absolute -left-12 top-8 w-12 h-12 bg-gradient-to-r from-amber-400 to-blue-400 rounded-full flex items-center justify-center">
+                    {/* <div className="lg:hidden absolute -left-12 top-8 w-12 h-12 bg-gradient-to-r from-amber-400 to-blue-400 rounded-full flex items-center justify-center">
                       <Zap className="h-6 w-6 text-black" />
-                    </div>
+                    </div> */}
 
                     <Image
                       src={img2}
@@ -219,14 +219,14 @@ export default function AboutPage() {
                   {/* Image - Desktop Left, Mobile Top */}
                   <div className="relative order-1 lg:order-2">
                     {/* Desktop Timeline Dot */}
-                    <div className="hidden lg:block absolute -left-8 top-1/2 transform -translate-y-1/2 w-16 h-16 bg-gradient-to-r from-amber-400 to-blue-400 rounded-full flex items-center justify-center">
+                    {/* <div className="hidden lg:block absolute -left-8 top-1/2 transform -translate-y-1/2 w-16 h-16 bg-gradient-to-r from-amber-400 to-blue-400 rounded-full flex items-center justify-center">
                       <Award className="h-8 w-8 text-black" />
-                    </div>
+                    </div> */}
 
                     {/* Mobile Timeline Dot */}
-                    <div className="lg:hidden absolute -left-12 top-8 w-12 h-12 bg-gradient-to-r from-amber-400 to-blue-400 rounded-full flex items-center justify-center">
+                    {/* <div className="lg:hidden absolute -left-12 top-8 w-12 h-12 bg-gradient-to-r from-amber-400 to-blue-400 rounded-full flex items-center justify-center">
                       <Award className="h-6 w-6 text-black" />
-                    </div>
+                    </div> */}
 
                     <Image
                       src={img3}
